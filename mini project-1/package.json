@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^12.9.2",
+    "qr-image": "^3.2.0"
+  },
+  "name": "mini-project-1",
+  "version": "1.0.0",
+  "main": "qrGenerator.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Karthi",
+  "license": "ISC",
+  "description": "QR Generator for URL"
+}
